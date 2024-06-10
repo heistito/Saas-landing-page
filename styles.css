@@ -467,8 +467,9 @@ body {
         text-wrap: balance;
     }
 
-  
-   
+    footer {
+        font-size: 12px;
+    }
     
 }
 
