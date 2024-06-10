@@ -467,8 +467,8 @@ body {
         text-wrap: balance;
     }
 
-    footer {
-        font-size: small;
+    .footer {
+        font-size: 12px;
     }
     
 }
